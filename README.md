@@ -21,7 +21,7 @@
     <a href="https://open.spotify.com/user/eric_golde" title="Spotify"><img src="./resources/Spotify.svg" width="100"></a>
     <a href="https://soundcloud.com/eric-golde" title="SoundCloud"><img src="./resources/SoundCloud.svg" width="100"></a>
     <!-- <a href="https://discord.gg/M3PAyyy" title="Discord"><img src="./resources/Discord.svg" width="100"></a> -->
-    <!-- <a href="" title="LinkedIn"><img src="./resources/LinkedIn.svg" width="100"></a> -->
+    <a href="https://www.linkedin.com/in/ericgolde" title="LinkedIn"><img src="./resources/LinkedIn.svg" width="100"></a>
     <a href="https://eric.golde.org/" title="My Website"><img src="./resources/Website.svg" width="100"></a>
     <a href="mailto:eric@golde.org?subject=Hello!" title="Email me"><img src="./resources/Email.svg" width="100"></a>
 </p>
