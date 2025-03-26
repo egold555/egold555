@@ -14,12 +14,12 @@
 
 <p float="left" align="center">
     <a href="https://www.facebook.com/ericgolde" title="Facebook (I don't use this platform much)"><img src="./resources/Facebook.svg" width="100"></a>
-    <a href="https://twitter.com/eric_golde" title="Twitter"><img src="./resources/Twitter.svg" width="100"></a>
+    <!-- <a href="https://twitter.com/eric_golde" title="Twitter"><img src="./resources/Twitter.svg" width="100"></a> -->
     <a href="https://www.instagram.com/eric_golde/" title="Instagram"><img src="./resources/Instagram.svg" width="100"></a>
     <a href="https://www.youtube.com/egold555" title="YouTube"><img src="./resources/YouTube.svg" width="100"></a>
     <a href="https://twitch.tv/ericgolde555" title="Twitch"><img src="./resources/Twitch.svg" width="100"></a>
     <a href="https://open.spotify.com/user/eric_golde" title="Spotify"><img src="./resources/Spotify.svg" width="100"></a>
-    <a href="https://soundcloud.com/eric-golde" title="SoundCloud"><img src="./resources/SoundCloud.svg" width="100"></a>
+    <!-- <a href="https://soundcloud.com/eric-golde" title="SoundCloud"><img src="./resources/SoundCloud.svg" width="100"></a> -->
     <!-- <a href="https://discord.gg/M3PAyyy" title="Discord"><img src="./resources/Discord.svg" width="100"></a> -->
     <a href="https://www.linkedin.com/in/ericgolde" title="LinkedIn"><img src="./resources/LinkedIn.svg" width="100"></a>
     <a href="https://eric.golde.org/" title="My Website"><img src="./resources/Website.svg" width="100"></a>
